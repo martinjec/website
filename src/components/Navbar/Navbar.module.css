@@ -1,0 +1,13 @@
+.sidebar {
+  grid-area: nav;
+  background-color: darkgreen;
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  color: aliceblue;
+}
+
+.NavBtn {
+  color: brown;
+}

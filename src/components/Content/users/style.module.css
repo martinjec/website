@@ -1,0 +1,13 @@
+img {
+  width: 100px;
+  background-color: aliceblue;
+}
+.active {
+  font-weight: bold;
+}
+.inActive {
+  color: white;
+}
+span:hover {
+  cursor: pointer;
+}

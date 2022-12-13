@@ -1,0 +1,12 @@
+.header {
+  grid-area: header;
+  background-color: darkgreen;
+  text-align: center;
+  color: aliceblue;
+  font-size: 2rem;
+}
+
+.loginBlock {
+  background-color: darkgreen;
+  float: right;
+}
